@@ -1,6 +1,6 @@
 # Chapter 0: The Journey Begins — Introduction & Roadmap
 
-Welcome to the **Scaler Notes on Neural Networks and Deep Learning**! 🚀
+Welcome to the **Notes on Neural Networks and Deep Learning**! 🚀
 
 Neural Networks are the engine room of modern AI—from the recommendation systems that suggest your next favorite show to the generative models that create art and code. This course is designed to take you from "What is a neuron?" to building, tuning, and deploying production-grade deep learning models.
 
